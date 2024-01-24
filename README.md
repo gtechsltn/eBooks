@@ -1,4 +1,4 @@
+# eBooks
 
-# Books Store
-This repository contains books about JavaScript, Python, and SEO. 
-
++ https://github.com/gtechsltn/Free-Web-Developement-Books
++ https://github.com/gtechsltn/eBooks
